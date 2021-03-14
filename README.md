@@ -8,6 +8,7 @@ http://ceur-ws.org/Vol-2517/T4-4.pdf
 
 Moudjari, Leila, Akli-Astouati, K., Benamara, F., 2020. An algerian corpus and an annotation platform for opinion and emotion analysis, in: Proceed-ings of The 12th Language Resources and Evaluation Conference, European Language Resources Association, Marseille, France. pp. 1195–1203.URL:https://www.aclweb.org/anthology/2020.lrec-1.151 
 
+MOUDJARI, Leila, and AKLI-ASTOUATI Karima. "An Experimental Study on Sentiment Classification of Algerian Dialect Texts." Procedia Computer Science 176 (2020): 1151-1159. https://www.sciencedirect.com/science/article/pii/S1877050920320111
 
 <p><h2>Licence</h2>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a></p>
